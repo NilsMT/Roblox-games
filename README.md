@@ -19,7 +19,7 @@
 - Développement mis en pause en 2022 pour favoriser celui d'A.R.C.H
 
 [**Lien vers la version en ligne**](https://www.roblox.com/games/7096759234)
-> La date de création est différente car elle a été transférée dans un groupe
+> La date de création est différente car le jeu a été transférée dans un groupe
 
 ![ZRC V2 Thumbnail](./img/ZRC-V2/RobloxThumbnail.png)
 
@@ -28,6 +28,6 @@
 - Développement annulé pour recommencer une meilleure version
 
 [**Lien vers la version en ligne**](https://www.roblox.com/games/18947596592)
-> La date de création est différente car elle a été transférée dans un groupe
+> La date de création est différente car le jeu a été transférée dans un groupe
 
 ![ZRC V1 Thumbnail](./img/ZRC-V1/RobloxThumbnail.png)
