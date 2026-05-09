@@ -15,7 +15,7 @@ A collection of Roblox games and projects developed over the years.
 - **Links:**
     - [Play Online](https://www.roblox.com/games/8871746612)
     - [Download File](https://github.com/NilsMT/Roblox-games-files/blob/main/game/A.R.C.H.rbxl)
-    - [Development Version File](./A.R.C.H_dev.rbxl)
+    - [Development Version File](https://github.com/NilsMT/Roblox-games-files/blob/main/game/A.R.C.H_dev.rbxl)
 
 ![](./img/ARCH/RobloxThumbnail.png)
 
